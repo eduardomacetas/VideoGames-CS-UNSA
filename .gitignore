@@ -1,0 +1,8 @@
+obj/*
+tmp/*
+
+*.swp
+
+*.swo
+
+*.meta
